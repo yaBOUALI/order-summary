@@ -1,0 +1,75 @@
+body{
+    background-image: url(images/pattern-background-desktop.svg);
+}
+
+.continar{
+    display: flex;
+    justify-content: center;
+    margin-top: 38px;
+}
+.bord{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(193, 183, 183, 0.258) ;
+}
+.pic1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.pra1{
+    text-align: center;
+    color: gray;
+}
+
+.bord2{
+    display: flex;
+    border-radius: 10px;
+    width: 350px;
+    background-color:hsla(225, 100%, 94%, 0.51);
+    height: 95px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.pic2{
+    width: 60px;
+    margin: 5px;
+    height:65px;
+    padding: 10px;
+    margin-right: 13px;
+}
+.sub{
+    background-color:hsla(258.9, 100%, 64.5%, 0.88) ;
+    width: 350px;
+    height:43px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: none;
+    color: white;
+    box-shadow: 0px 5px 5px #dccfcfb8;
+}
+
+.h2{
+    margin-top: 20àpx;
+    margin-bottom: 5px;
+}
+
+.link1{
+    margin-top:38px ;
+    margin-left: 80px;
+}
+
+.pra2{
+    margin-top: 7px;
+    color: gray
+}
+.link2{
+    margin-bottom:35px ;
+    margin-top: 15px;
+    text-decoration: none;
+    color: hsl(224.3, 20.2%, 44.7%);
+}
